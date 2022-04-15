@@ -12,7 +12,7 @@ const transactionSchema = new Schema(
     value: {
       type: Number,
       required: "Enter an amount"
-    },
+    }, 
     date: {
       type: Date,
       default: Date.now
