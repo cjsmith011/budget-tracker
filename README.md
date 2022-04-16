@@ -4,7 +4,9 @@ Heroku deployment: https://pure-reef-09384.herokuapp.com/
 
 Github repo: https://github.com/cjsmith011/budget-tracker.git
 
-app screenshot: C:\Users\ronal\OneDrive\Documents\GitHub\budget-tracker\public\deployed app screenshot.JPG
+app screenshot: https://github.com/cjsmith011/budget-tracker/blob/main/public/deployed%20app%20screenshot.JPG
+
+
 
 
 AS AN avid traveler
